@@ -11,10 +11,10 @@
   <p>
     <a href="https://github.com/Chinmoy-04"><img src="https://img.shields.io/badge/Location-Deggendorf%2C%20Germany-1F2937?style=flat-square" alt="Location" /></a>
     <a href="https://www.linkedin.com/in/chinmoy-jyoti-bora-38787b227"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:chinmoy.bora177@gmail.com"><img src="https://img.shields.io/badge/Email-chinmoy.bora177%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://github.com/Chinmoy-04"><img src="https://img.shields.io/badge/GitHub-Chinmoy--04-181717?style=flat-square&logo=github" alt="GitHub" /></a>
     <img src="https://komarev.com/ghpvc/?username=Chinmoy-04&label=Profile%20views&color=58A6FF&style=flat-square" alt="Profile views" />
   </p>
+  <p><code>chinmoy.bora177@gmail.com</code></p>
 </div>
 
 ---
@@ -150,12 +150,24 @@ Aggregated environmental and healthcare records into a unified dataset (5 years 
 </table>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Chinmoy-04&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8" alt="GitHub trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=Chinmoy-04&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8" alt="GitHub trophies" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chinmoy-04&theme=github-compact&hide_border=true&area=true" alt="Contribution graph" />
-</div>
+<table width="100%">
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chinmoy-04&theme=github_dark" alt="Profile details" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Chinmoy-04&theme=github_dark" alt="Productive time" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Chinmoy-04&theme=github_dark" alt="Contribution stats" />
+    </td>
+  </tr>
+</table>
 
 ---
 
