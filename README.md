@@ -136,10 +136,10 @@ Aggregated environmental and healthcare records into a unified dataset (5 years 
 <table width="100%">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-stats-extended.vercel.app/api?username=Chinmoy-04&show_icons=true&theme=transparent&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+      <img src="./profile/stats.svg" alt="GitHub stats" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Chinmoy-04&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top languages" />
+      <img src="./profile/top-langs.svg" alt="Top languages" />
     </td>
   </tr>
 </table>
