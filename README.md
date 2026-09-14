@@ -149,26 +149,6 @@ Aggregated environmental and healthcare records into a unified dataset (5 years 
   </tr>
 </table>
 
-<div align="center">
-  <img src="https://trophy.ryglcloud.net/?username=Chinmoy-04&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8" alt="GitHub trophies" />
-</div>
-
-<table width="100%">
-  <tr>
-    <td align="center" colspan="2">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chinmoy-04&theme=github_dark" alt="Profile details" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Chinmoy-04&theme=github_dark" alt="Productive time" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Chinmoy-04&theme=github_dark" alt="Contribution stats" />
-    </td>
-  </tr>
-</table>
-
 ---
 
 <div align="center">
