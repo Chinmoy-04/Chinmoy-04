@@ -29,7 +29,6 @@ I work across **on-device computer vision**, **RAG systems**, and **applied data
 - OCI 2025 Certified AI Foundations Associate · Google Data Analytics Professional Certificate
 
 **Currently focused on**
-- Reproducing the [LightRAG paper](https://arxiv.org/abs/2410.05779) fully offline
 - Learning multimodal agents
 - LangGraph architecture for agentic workflows
 
@@ -97,11 +96,11 @@ I work across **on-device computer vision**, **RAG systems**, and **applied data
 
 ## Featured projects
 
-### LightRAG Local — _in progress_
+### LightRAG Local — _completed_
 
-Fully offline reproduction of the [LightRAG paper](https://arxiv.org/abs/2410.05779) on native Windows (PowerShell + Conda, no WSL). Indexes recent arXiv **cs.LG** papers into a local knowledge graph and answers with graph-aware retrieval (**naive / local / global / hybrid**), with latency shown in the UI for benchmarking.
+End-to-end local reproduction of the [LightRAG paper](https://arxiv.org/abs/2410.05779) on native Windows: 30 RAG-focused arXiv papers indexed into a NetworkX graph (**~6.5k nodes / ~6.9k edges**), with chat, a graph viewer, and a Compare dashboard for **naive / local / global / hybrid**.
 
-Ollama `llama3.1:8b` (Q4) + `nomic-embed-text` on an **RTX 5060 Laptop (8GB, Blackwell)**; FastAPI backend; React + Vite + Tailwind UI. Environment bootstrap is done; corpus, API, and chat UI are next.
+Ollama `llama3.1:8b` + `nomic-embed-text` for extract/embed; FastAPI + React/Vite UI. A paper-style LLM judge (Comprehensiveness / Diversity / Empowerment) scored both local-8B and DeepSeek query runs — **naive won both times**. Architecture matches the paper; the 8B graph extract is the quality bottleneck.
 
 [Repository](https://github.com/Chinmoy-04/lightrag-local)
 
