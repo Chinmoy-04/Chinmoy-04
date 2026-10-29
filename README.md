@@ -103,22 +103,6 @@ I work across **AI agents**, **on-device computer vision**, **RAG systems**, and
 
 ## Featured projects
 
-### ShopCrew - PayPal AI Hackathon
-
-AI agents run a one-person shop: they refund customers through the PayPal Agent Toolkit and pay suppliers through PayPal Payouts. Every decision lands in a live AG Grid control room so the owner can approve, edit, or roll it back (orchestrator guardrails, human-in-the-loop).
-
-**Stack:** TypeScript, Node.js, Fastify, React, AG Grid, PayPal Agent Toolkit
-
-[Repository](https://github.com/Chinmoy-04/ShopCrew-PayPal)
-
-### VibeGuide - Qloo Agentic Hackathon
-
-Taste-based travel concierge that turns music, food, and media preferences into city itineraries via Qloo's cultural AI API, with Gemini narratives and a refine agent for thumbs-up / thumbs-down feedback. Backend and Qloo pipeline by me; frontend by Armita Bora.
-
-**Stack:** Python, FastAPI, React, Qloo API, Gemini
-
-[Repository](https://github.com/armitabora/qloo)
-
 ### SubspaceAD
 
 Training-free few-shot anomaly detection via DINOv2 subspace modeling. From-scratch reproduction of [arXiv:2602.23013](https://arxiv.org/abs/2602.23013) on MVTec-AD and VisA (`k ∈ {1,2,4}`, 5 seeds), plus paper ablations and a Next.js / FastAPI demo.
@@ -126,6 +110,14 @@ Training-free few-shot anomaly detection via DINOv2 subspace modeling. From-scra
 **Stack:** Python, PyTorch, DINOv2, FastAPI, Next.js
 
 [Repository](https://github.com/Chinmoy-04/Subspacead)
+
+### ShopCrew - PayPal AI Hackathon
+
+AI agents run a one-person shop: they refund customers through the PayPal Agent Toolkit and pay suppliers through PayPal Payouts. Every decision lands in a live AG Grid control room so the owner can approve, edit, or roll it back (orchestrator guardrails, human-in-the-loop). Built for the PayPal AI Hackathon.
+
+**Stack:** TypeScript, Node.js, Fastify, React, AG Grid, PayPal Agent Toolkit
+
+[Repository](https://github.com/Chinmoy-04/ShopCrew-PayPal)
 
 ### HelixForge - RAG Eval Engine
 
@@ -142,6 +134,14 @@ Local LightRAG knowledge graph on Windows: 30 RAG-focused arXiv papers indexed i
 **Stack:** LightRAG, Ollama, FastAPI, React, NetworkX
 
 [Repository](https://github.com/Chinmoy-04/lightrag-local)
+
+### VibeGuide - Qloo Agentic Hackathon
+
+Taste-based travel concierge that turns music, food, and media preferences into city itineraries via Qloo's cultural AI API, with Gemini narratives and a refine agent for thumbs-up / thumbs-down feedback. Backend and Qloo pipeline by me; frontend by Armita Bora. Built for the Qloo Agentic Hackathon.
+
+**Stack:** Python, FastAPI, React, Qloo API, Gemini
+
+[Repository](https://github.com/armitabora/qloo)
 
 ### Interactive Air-Gesture Touchless Controller
 
