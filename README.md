@@ -2,11 +2,11 @@
   <h1>Chinmoy Jyoti Bora</h1>
   <p>
     <a href="https://github.com/Chinmoy-04">
-      <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=640&lines=Edge+AI+%C2%B7+Computer+Vision+%C2%B7+Data+Science;Models+that+fit+on+a+Raspberry+Pi;RAG+systems+you+can+run+and+score+locally" alt="Edge AI · Computer Vision · Data Science" />
+      <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=640&lines=AI+Agents+%C2%B7+Computer+Vision+%C2%B7+RAG;Edge+models+on+real+hardware;Agentic+automation+you+can+review+and+trust" alt="AI Agents · Computer Vision · RAG" />
     </a>
   </p>
   <p>
-    <strong>I train compact vision models, deploy them on real hardware, and turn messy data into systems you can query, evaluate, and trust.</strong>
+    <strong>I build AI agents and agentic process automation, train compact vision models for real hardware, and turn messy data into systems you can query, evaluate, and trust.</strong>
   </p>
   <p>
     <a href="https://github.com/Chinmoy-04"><img src="https://img.shields.io/badge/Location-Deggendorf%2C%20Germany-1F2937?style=flat-square" alt="Location" /></a>
@@ -23,14 +23,16 @@
 
 Dual-degree **M.Sc. in AI and Data Science** at [TH Deggendorf](https://www.th-deg.de/) and the [University of South Bohemia](https://www.jcu.cz/en) (current GPA Ø 2.0). Previously **B.Sc. Information Technology** at [St. Xavier’s College, Mumbai](https://xaviers.edu/) (7.23 CGPA).
 
-I work across **on-device computer vision**, **RAG systems**, and **applied data science** — from YOLO on a Raspberry Pi to retrieval pipelines you can actually score.
+Looking for **Werkstudent / internship** roles in ML, data engineering, and AI software (agents, RAG, industrial and vision AI).
 
-- Intern, Diginique TechLab — end-to-end movie recommendation system (TF-IDF / SVD, scikit-learn)
+I work across **AI agents**, **on-device computer vision**, **RAG systems**, and **applied data science**, from human-in-the-loop agent workflows to YOLO on a Raspberry Pi and retrieval pipelines you can actually score.
+
+- Intern, Diginique TechLab: end-to-end movie recommendation system (TF-IDF / SVD, scikit-learn)
 - OCI 2025 Certified AI Foundations Associate · Google Data Analytics Professional Certificate
 
 **Currently focused on**
-- Learning multimodal agents
-- LangGraph architecture for agentic workflows
+- AI agents and agentic process automation (human-in-the-loop review, policy guardrails)
+- RAG evaluation, local knowledge graphs, and training-free industrial vision
 
 ---
 
@@ -52,8 +54,9 @@ I work across **on-device computer vision**, **RAG systems**, and **applied data
       <p>
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
         <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+        <img src="https://img.shields.io/badge/DINOv2-111F68?style=for-the-badge" alt="DINOv2" />
         <img src="https://img.shields.io/badge/Ultralytics%20YOLO-111F68?style=for-the-badge" alt="YOLO" />
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
         <img src="https://img.shields.io/badge/timm-EE4C2C?style=for-the-badge" alt="timm" />
       </p>
     </td>
@@ -63,11 +66,13 @@ I work across **on-device computer vision**, **RAG systems**, and **applied data
       <h3>LLM, RAG & Agents</h3>
       <p>
         <img src="https://img.shields.io/badge/LlamaIndex-FF3600?style=for-the-badge" alt="LlamaIndex" />
-        <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
-        <img src="https://img.shields.io/badge/Chroma-FC8181?style=for-the-badge" alt="Chroma" />
+        <img src="https://img.shields.io/badge/LightRAG-1C3C3C?style=for-the-badge" alt="LightRAG" />
         <img src="https://img.shields.io/badge/Ragas-4B5563?style=for-the-badge" alt="Ragas" />
         <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+        <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
+        <img src="https://img.shields.io/badge/Chroma-FC8181?style=for-the-badge" alt="Chroma" />
         <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
       </p>
     </td>
     <td align="center" valign="top" width="50%">
@@ -77,7 +82,9 @@ I work across **on-device computer vision**, **RAG systems**, and **applied data
         <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
         <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
         <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+        <img src="https://img.shields.io/badge/GCP%20BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP BigQuery" />
         <img src="https://img.shields.io/badge/tidyverse-1A476F?style=for-the-badge&logo=r&logoColor=white" alt="tidyverse" />
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
       </p>
     </td>
   </tr>
@@ -96,37 +103,69 @@ I work across **on-device computer vision**, **RAG systems**, and **applied data
 
 ## Featured projects
 
-### LightRAG Local — _completed_
+### ShopCrew - PayPal AI Hackathon
 
-End-to-end local reproduction of the [LightRAG paper](https://arxiv.org/abs/2410.05779) on native Windows: 30 RAG-focused arXiv papers indexed into a NetworkX graph (**~6.5k nodes / ~6.9k edges**), with chat, a graph viewer, and a Compare dashboard for **naive / local / global / hybrid**.
+AI agents run a one-person shop: they refund customers through the PayPal Agent Toolkit and pay suppliers through PayPal Payouts. Every decision lands in a live AG Grid control room so the owner can approve, edit, or roll it back (orchestrator guardrails, human-in-the-loop).
 
-Ollama `llama3.1:8b` + `nomic-embed-text` for extract/embed; FastAPI + React/Vite UI. A paper-style LLM judge (Comprehensiveness / Diversity / Empowerment) scored both local-8B and DeepSeek query runs — **naive won both times**. Architecture matches the paper; the 8B graph extract is the quality bottleneck.
+**Stack:** TypeScript, Node.js, Fastify, React, AG Grid, PayPal Agent Toolkit
 
-[Repository](https://github.com/Chinmoy-04/lightrag-local)
+[Repository](https://github.com/Chinmoy-04/ShopCrew-PayPal)
 
-### RAG Evaluation Engine — HelixForge
+### VibeGuide - Qloo Agentic Hackathon
 
-Full-stack RAG evaluation engine (FastAPI, LlamaIndex, Chroma; React/Vite dashboard). Seven retrieval pipeline configs — baseline, degraded, optimised, hybrid, hybrid+, rerank, and CSV-route — scored with **Ragas** (relevance, faithfulness, context precision) via a local LLM judge, using synthetic and hand-authored test sets side by side.
+Taste-based travel concierge that turns music, food, and media preferences into city itineraries via Qloo's cultural AI API, with Gemini narratives and a refine agent for thumbs-up / thumbs-down feedback. Backend and Qloo pipeline by me; frontend by Armita Bora.
+
+**Stack:** Python, FastAPI, React, Qloo API, Gemini
+
+[Repository](https://github.com/armitabora/qloo)
+
+### SubspaceAD
+
+Training-free few-shot anomaly detection via DINOv2 subspace modeling. From-scratch reproduction of [arXiv:2602.23013](https://arxiv.org/abs/2602.23013) on MVTec-AD and VisA (`k ∈ {1,2,4}`, 5 seeds), plus paper ablations and a Next.js / FastAPI demo.
+
+**Stack:** Python, PyTorch, DINOv2, FastAPI, Next.js
+
+[Repository](https://github.com/Chinmoy-04/Subspacead)
+
+### HelixForge - RAG Eval Engine
+
+Ingest a policy corpus, generate synthetic and hand-authored Q&A, run seven retrieval pipeline configs, score them with Ragas, and compare results in a React dashboard.
+
+**Stack:** FastAPI, LlamaIndex, Chroma, Ragas, React / TypeScript
 
 [Repository](https://github.com/Chinmoy-04/Rag-eval-engine) · [Live dashboard](https://rag-eval-engine.vercel.app/)
 
-### Ensemble Inference Pipeline — Krones Challenge
+### LightRAG Local - _completed_
 
-Binary image classifier (reusable vs. non-reusable containers) for the Kaggle **1st Krones Vision AI Challenge**, using ROI crops from conveyor-line imagery. Iterated through 18 experiment generations to a dual-backbone **ConvNeXt-Large + EfficientNetV2-M** ensemble with k-fold CV, TTA, F1-optimal thresholding, and ONNX export.
+Local LightRAG knowledge graph on Windows: 30 RAG-focused arXiv papers indexed into a NetworkX graph (~6.5k nodes / ~6.9k edges), with chat, a graph viewer, and a Compare dashboard for naive / local / global / hybrid modes. Ollama for extract and embed; FastAPI + React UI.
 
-[Repository](https://github.com/Chinmoy-04/Industrial-Bottle-Inspection-System-Binary-)
+**Stack:** LightRAG, Ollama, FastAPI, React, NetworkX
+
+[Repository](https://github.com/Chinmoy-04/lightrag-local)
 
 ### Interactive Air-Gesture Touchless Controller
 
 Trained **YOLO11n** to recognise 6 hand gestures (**95.9% precision, 96.9% recall, 98.1% mAP50**) and deployed it on a **Raspberry Pi 5** with a **Sony IMX500** on-sensor NPU for real-time, camera-only control of presentations, media, cursor, and desktop.
 
+**Stack:** YOLO11n, Raspberry Pi 5, Sony IMX500
+
 [Repository](https://github.com/Chinmoy-04/air-gesture-controller)
 
-### Public Health Data Visualization — German Air Quality
+### Public Health Data Visualization - German Air Quality
 
 Aggregated environmental and healthcare records into a unified dataset (5 years × 16 German states) with **R / tidyverse**, correlating **PM10** and **NO2** with age-standardised respiratory mortality. Interactive **Next.js** dashboard for the story the numbers tell.
 
+**Stack:** R, tidyverse, Next.js
+
 [Repository](https://github.com/Chinmoy-04/German-air) · [Live dashboard](https://german-air.vercel.app)
+
+### Ensemble Inference Pipeline - Krones Challenge
+
+Binary image classifier (reusable vs. non-reusable containers) for the Kaggle **1st Krones Vision AI Challenge**, using ROI crops from conveyor-line imagery. Iterated through 18 experiment generations to a dual-backbone **ConvNeXt-Large + EfficientNetV2-M** ensemble with k-fold CV, TTA, F1-optimal thresholding, and ONNX export.
+
+**Stack:** PyTorch, ConvNeXt, EfficientNetV2, ONNX
+
+[Repository](https://github.com/Chinmoy-04/Industrial-Bottle-Inspection-System-Binary-)
 
 ---
 
@@ -147,6 +186,6 @@ Aggregated environmental and healthcare records into a unified dataset (5 years 
 
 <div align="center">
 
-Thanks for stopping by — the interesting work is in the repos above.
+Thanks for stopping by. The interesting work is in the repos above.
 
 </div>
