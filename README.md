@@ -21,7 +21,7 @@
 
 ## About
 
-Dual-degree **M.Sc. in AI and Data Science** at [TH Deggendorf](https://www.th-deg.de/) and the [University of South Bohemia](https://www.jcu.cz/en) (current GPA Ø 2.0). Previously **B.Sc. Information Technology** at [St. Xavier’s College, Mumbai](https://xaviers.edu/) (7.23 CGPA).
+Dual-degree **M.Sc. in AI and Data Science** at [TH Deggendorf](https://www.th-deg.de/) and the [University of South Bohemia](https://www.jcu.cz/en) (current GPA Ø 2.0). Previously **B.Sc. Information Technology** at [St. Xavier’s College, Mumbai](https://xaviers.edu/).
 
 Looking for **Werkstudent / internship** roles in ML, data engineering, and AI software (agents, RAG, industrial and vision AI).
 
